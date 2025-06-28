@@ -22,7 +22,7 @@ An analytical exploration of the **top Premier League clubs (Liverpool, Manchest
 
 ## 📸 Preview
 
-![Dashboard Preview](screenshots/dashboard_preview.png)
+![Dashboard Preview](Clean.png)
 
 
 ## 💡 Future Plans
