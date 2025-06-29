@@ -1,5 +1,3 @@
-# PremierLeaguePowerhouses
-An analysis about the Premier top 4(24/25 season
 # 🏆 The Premier League Power House
 
 An analytical breakdown of **Liverpool, Manchester City, Arsenal, and Chelsea** in the **2024/25 EPL season**, using **Power BI** and **Python** for clear, interactive insights.
@@ -77,8 +75,8 @@ Feel free to:
 
 ## 📬 Contact
 For feedback or collaborations:
-- **[Your Email]**
-- **[Your LinkedIn/X]**
+- **[Udohetop48@gmail.com]**
+- **[@udoh_etop9488@X]**
 
 ---
 
