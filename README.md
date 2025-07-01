@@ -60,7 +60,6 @@ This project explores:
 
 ## 💡 Future Improvements
 - Add xG (Expected Goals) comparison.
-- Incorporate player-level contributions.
 - Deploy a **Streamlit app** for web-based interaction.
 
 ---
