@@ -58,7 +58,7 @@ This project explores:
 
 ---
 
-Insights 
+## 📊Insights 
 -Liverpool were super strong in all areas.
 Man city irrespective of their dominance in terms of possession weren't clinical up front and conceded a lot of goals.
 -Chelsea were behind in terms of scoring and conceded the most.
