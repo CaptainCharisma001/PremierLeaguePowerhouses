@@ -24,7 +24,7 @@ This project explores:
 ## 🛠️ Tools Used
 
 - **Power BI** for interactive dashboards.
-- **Python (Pandas, Matplotlib)** for data preparation.
+- **Python (Pandas) for data preparation.
 - **Excel** for data structuring.
 
 ---
