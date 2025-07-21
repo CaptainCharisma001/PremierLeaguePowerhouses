@@ -59,14 +59,15 @@ This project explores:
 ---
 
 ## 📊Insights 
--Liverpool were super strong in all areas.
-Man city irrespective of their dominance in terms of possession weren't clinical up front and conceded a lot of goals.
--Chelsea were behind in terms of scoring and conceded the most.
-Arsenal were strong, conceded less amongst all but not so clinical upfront which made them come second on the log.
--Most players with less minutes would have actually gotten more goal contributions if they had played same minutes with Mohammed Salah. 
-Mohammed Salah really stood out in all areas despite playing as a winger and not a striker, having the most goals contribution. 
 
-NOTE: Data used for this Analysis may vary depending on source.
+1 Liverpool were super strong in all areas.
+2 Man city irrespective of their dominance in terms of possession weren't clinical up front and conceded a lot of goals.
+3 Chelsea were behind in terms of scoring and conceded the most.
+4 Arsenal were strong, conceded less amongst all but not so clinical upfront which made them come second on the log.
+5 Most players with less minutes would have actually gotten more goal contributions if they had played same minutes with Mohammed Salah. 
+6 Mohammed Salah really stood out in all areas despite playing as a winger and not a striker, having the most goals contribution. 
+
+## NOTE: Data used for this Analysis may vary depending on source.
 
 ---
 
